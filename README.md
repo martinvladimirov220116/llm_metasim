@@ -91,7 +91,7 @@ Conversations and cleaning rely entirely on prompts sent to the mistral model.
 
 Execution speed will vary on CPU vs GPU. (This project was developed on CPU.)
 
-Some portions of this project (llm_client.py, parts of conversation.py, parts of process_text.py) were developed with help from ChatGPT to increase productivity, fix bugs, and improve structure.
+Some portions of this project (llm_client.py, parts of conversation.py, parts of process_text.py) were developed with help from ChatGPT to increase productivity, fix bugs, and improve structure. Everything ChatGPT answer has been checked and corrected if necessary, so that it suits the project.
 
 ## Author
 **Martin Vladimirov**
