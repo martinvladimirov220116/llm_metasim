@@ -1,7 +1,5 @@
 fastapi
 uvicorn[standard]
 httpx
-aiohttp
-nltk
 spacy
 requests
